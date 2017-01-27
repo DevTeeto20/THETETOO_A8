@@ -14,10 +14,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/tetoali605/THETETOO_A6A.git
+git clone https://github.com/DevTeeto20/THETETOO_A8.git
 
 #5
-cd THETETOO_A6A
+cd THETETOO_A8
 
 #6
 chmod +x launch.sh
