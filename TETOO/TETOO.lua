@@ -212,7 +212,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {	
-"anti_spam",
+  "anti_spam",
 "ar-supergruop",
 "arabic_lock",
 "ar-info",
@@ -267,7 +267,7 @@ function create_config( )
 "ingroup"
 "lock_link",
 "kickm",
-"hello",	
+"hello"	
 
     },
     sudo_users = { 250062838,0,tonumber(our_id)},--Sudo users
