@@ -243,6 +243,7 @@ function create_config( )
 "gette",
 "kickall1",
 "l_l_lo",
+"links",			
 "leave_ban",
 "msg_checks",
 "owners",
